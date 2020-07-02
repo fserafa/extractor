@@ -1,0 +1,142 @@
+[
+    {
+        "id": "capital",
+        "faixaPeso": [
+            {
+                "pesoInicial": "0",
+                "pesoFinal": "10",
+                "valor": "39,23"
+            },
+            {
+                "pesoInicial": "10,001",
+                "pesoFinal": "20",
+                "valor": "40,69"
+            },
+            {
+                "pesoInicial": "20,001",
+                "pesoFinal": "30",
+                "valor": "41,73"
+            },
+            {
+                "pesoInicial": "30,001",
+                "pesoFinal": "50",
+                "valor": "45,69"
+            },
+            {
+                "pesoInicial": "50,001",
+                "pesoFinal": "70",
+                "valor": "48,85"
+            },
+            {
+                "pesoInicial": "70,001",
+                "pesoFinal": "100",
+                "valor": "60,24"
+            }
+        ]
+    },
+    {
+        "id": "interior1",
+        "faixaPeso": [
+            {
+                "pesoInicial": "0",
+                "pesoFinal": "10",
+                "valor": "42,85"
+            },
+            {
+                "pesoInicial": "10,001",
+                "pesoFinal": "20",
+                "valor": "43,88"
+            },
+            {
+                "pesoInicial": "20,001",
+                "pesoFinal": "30",
+                "valor": "46,87"
+            },
+            {
+                "pesoInicial": "30,001",
+                "pesoFinal": "50",
+                "valor": "55,03"
+            },
+            {
+                "pesoInicial": "50,001",
+                "pesoFinal": "70",
+                "valor": "72,85"
+            },
+            {
+                "pesoInicial": "70,001",
+                "pesoFinal": "100",
+                "valor": "96,85"
+            }
+        ]
+    },
+    {
+        "id": "interior2",
+        "faixaPeso": [
+            {
+                "pesoInicial": "0",
+                "pesoFinal": "10",
+                "valor": "57,16"
+            },
+            {
+                "pesoInicial": "10,001",
+                "pesoFinal": "20",
+                "valor": "58,16"
+            },
+            {
+                "pesoInicial": "20,001",
+                "pesoFinal": "30",
+                "valor": "60,73"
+            },
+            {
+                "pesoInicial": "30,001",
+                "pesoFinal": "50",
+                "valor": "65,66"
+            },
+            {
+                "pesoInicial": "50,001",
+                "pesoFinal": "70",
+                "valor": "85,39"
+            },
+            {
+                "pesoInicial": "70,001",
+                "pesoFinal": "100",
+                "valor": "98,35"
+            }
+        ]
+    },
+    {
+        "id": "interior3",
+        "faixaPeso": [
+            {
+                "pesoInicial": "0",
+                "pesoFinal": "10",
+                "valor": "59,80"
+            },
+            {
+                "pesoInicial": "10,001",
+                "pesoFinal": "20",
+                "valor": "60,84"
+            },
+            {
+                "pesoInicial": "20,001",
+                "pesoFinal": "30",
+                "valor": "62,87"
+            },
+            {
+                "pesoInicial": "30,001",
+                "pesoFinal": "50",
+                "valor": "66,66"
+            },
+            {
+                "pesoInicial": "50,001",
+                "pesoFinal": "70",
+                "valor": "88,48"
+            },
+            {
+                "pesoInicial": "70,001",
+                "pesoFinal": "100",
+                "valor": "99,89"
+            }
+        ]
+    }
+]
